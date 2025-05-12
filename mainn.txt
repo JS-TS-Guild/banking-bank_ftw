@@ -1,2 +1,0 @@
-npm run test-run-finalexport TESTS_FOLDER="https://raw.githubusercontent.com/JS-TS-Guild/banking-bank_ftw/main/tests"
-npm run test-run-final
