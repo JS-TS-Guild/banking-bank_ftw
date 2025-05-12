@@ -13,7 +13,7 @@ importers:
         version: 11.0.5
     devDependencies:
       vite-tsconfig-paths:
-        specifier: ^5.1.4
+        specifier: ^5.0.1
         version: 5.1.4(vite@5.4.11)
       vitest:
         specifier: ^2.1.0
